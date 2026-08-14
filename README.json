@@ -1,0 +1,276 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ - a Python library for plotting football pitches in matplotlib by Andrew Rowlinson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:40:47Z",
+            "owner": "andrewRowlinson",
+            "repo": "mplsoccer",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by @danzn1 - most pretty & lovely tables with matplotlib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-16T08:50:53Z",
+            "owner": "znstrider",
+            "repo": "plottable",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ by Ben Torvaney - a soccer visualisation library in R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-07T21:02:59Z",
+            "owner": "Torvaney",
+            "repo": "ggsoccer",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Luuk Hopman - all logos of teams in the top 20 European leagues. Season 2022/2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T17:23:03Z",
+            "owner": "luukhopman",
+            "repo": "football-logos",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by McKay Johns - code used in his YouTube Videos [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-07-10T01:12:05Z",
+            "owner": "mckayjohns",
+            "repo": "youtube-videos",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ - a Python library for visualising soccer event data by Tom Decroos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-02T20:26:42Z",
+            "owner": "TomDecroos",
+            "repo": "matplotsoccer",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ by Tom Decroos - package to visualize soccer data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-02T20:26:42Z",
+            "owner": "TomDecroos",
+            "repo": "matplotsoccer",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ by Son of a Corner - viz of the week repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-13T04:49:28Z",
+            "owner": "sonofacorner",
+            "repo": "soc-viz-of-the-week",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Rodolfo Mói - Graphs and passing networks in football",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T14:12:42Z",
+            "owner": "rodmoioliveira",
+            "repo": "football-graphs",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ by Abhishek Mishra - an analysis and visualisation R package that works with publicly available soccer data. See the following documentation [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-08-18T14:23:57Z",
+            "owner": "abhiamishra",
+            "repo": "ggshakeR",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⭐ - a Python package that can be used for making visualisations for football analytics by Anmol Durgapal. Now part of the package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-29T14:14:39Z",
+            "owner": "slothfulwave",
+            "repo": "soccerplots",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Son of a Corner - the Jupyter notebooks behind the Son of a Corner matplotlib tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-08T06:18:33Z",
+            "owner": "sonofacorner",
+            "repo": "matplotlib-tutorials",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Devin Pleuler - Python notebook for procedurally generating Mondrian-style soccer fields",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-12T16:40:17Z",
+            "owner": "devinpleuler",
+            "repo": "mondrian-soccer-art",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Abhishek Sharma - gallery for typical football plots created using",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-15T10:00:34Z",
+            "owner": "sharmaabhishekk",
+            "repo": "mpl-footy",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "an open source, MIT-licensed Python package for plotting waffle charts by Peter McKeever",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-26T23:22:17Z",
+            "owner": "petermckeeverPerform",
+            "repo": "PyWaffle",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Repos and libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "For club badges for the 'Big 5' European leagues and English leagues, see the",
+          "description": "subfolder of this GitHub repository. See also the Club crests put together by Ninad Barbadikar that is available for download.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-09T10:51:47Z",
+            "owner": "eddwebster",
+            "repo": "football_analytics",
+            "stars": 2729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matplotlib for Football",
+          "description": "gallery for Typical Football Plots created using matplotlib by Abhishek Sharma. See his Twitter thread [link] and GitHub repository [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-15T10:00:34Z",
+            "owner": "sharmaabhishekk",
+            "repo": "mpl-footy",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URLs of images of all first team players from the Premier League website by Alfred",
+          "description": "see CSV",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-10-29T11:55:17Z",
+            "owner": "aappiah17",
+            "repo": "Football-Analytics",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T02:49:19.816Z",
+    "original_repository": "eddwebster/football_analytics",
+    "original_repository_sha": "47cac1ba5c9748b057b7cfa366dd3d7a21d73575",
+    "enhanced_repository": "enhansome/enhansome-football_analytics",
+    "enhanced_repository_description": null,
+    "title": "Awesome football analytics with stars"
+  }
+}
