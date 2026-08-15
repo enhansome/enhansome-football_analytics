@@ -230,7 +230,7 @@
             "last_commit": "2025-10-09T10:51:47Z",
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2729
+            "stars": 2731
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:49:19.816Z",
+    "last_updated": "2026-08-15T01:52:29.125Z",
     "original_repository": "eddwebster/football_analytics",
     "original_repository_sha": "47cac1ba5c9748b057b7cfa366dd3d7a21d73575",
     "enhanced_repository": "enhansome/enhansome-football_analytics",
