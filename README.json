@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189690672,
             "language": "Python",
             "last_commit": "2026-07-31T20:40:47Z",
             "owner": "andrewRowlinson",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 550129468,
             "language": "Python",
             "last_commit": "2023-12-16T08:50:53Z",
             "owner": "znstrider",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84352345,
             "language": "HTML",
             "last_commit": "2024-10-07T21:02:59Z",
             "owner": "Torvaney",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406480158,
             "language": null,
             "last_commit": "2026-07-21T17:23:03Z",
             "owner": "luukhopman",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490518364,
             "language": "Jupyter Notebook",
             "last_commit": "2025-07-10T01:12:05Z",
             "owner": "mckayjohns",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197396238,
             "language": "Jupyter Notebook",
             "last_commit": "2023-04-02T20:26:42Z",
             "owner": "TomDecroos",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197396238,
             "language": "Jupyter Notebook",
             "last_commit": "2023-04-02T20:26:42Z",
             "owner": "TomDecroos",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527400059,
             "language": "Jupyter Notebook",
             "last_commit": "2023-02-13T04:49:28Z",
             "owner": "sonofacorner",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237724939,
             "language": "HTML",
             "last_commit": "2026-08-10T14:12:42Z",
             "owner": "rodmoioliveira",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404524765,
             "language": "R",
             "last_commit": "2023-08-18T14:23:57Z",
             "owner": "abhiamishra",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284129771,
             "language": "Python",
             "last_commit": "2021-04-29T14:14:39Z",
             "owner": "slothfulwave",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525482512,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-08T06:18:33Z",
             "owner": "sonofacorner",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175255691,
             "language": "Jupyter Notebook",
             "last_commit": "2019-03-12T16:40:17Z",
             "owner": "devinpleuler",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389520103,
             "language": "HTML",
             "last_commit": "2021-10-15T10:00:34Z",
             "owner": "sharmaabhishekk",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294318200,
             "language": null,
             "last_commit": "2020-07-26T23:22:17Z",
             "owner": "petermckeeverPerform",
@@ -217,7 +232,7 @@
       "title": "Repos and libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -226,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292020432,
             "language": "Jupyter Notebook",
             "last_commit": "2025-10-09T10:51:47Z",
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2733
+            "stars": 2734
           }
         },
         {
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389520103,
             "language": "HTML",
             "last_commit": "2021-10-15T10:00:34Z",
             "owner": "sharmaabhishekk",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326412483,
             "language": "R",
             "last_commit": "2021-10-29T11:55:17Z",
             "owner": "aappiah17",
@@ -263,11 +281,786 @@
         }
       ],
       "title": "Resources"
+    },
+    {
+      "description": "Many of these blog posts are recommended in Sam Gregory's Best Football Analytics Pieces piece and Tom Worville's “What’s the best Football Analytics piece you’ve ever read?”, both articles now a few years old. This section is very subjective so if I've missed anything obvious, apologies.\nThe following list contains those blogs that are still maintained, as well as the original blogs from the OGs of football analytics.\nFor a Twitter thread of the football analytics blogs from 2009 an earlier, see the following Twitter thread from Tiotal Football [link].\nSee the following subfolder of this GitHub repo for PDF copies of the papers listed below [link].\nMany of the papers included in this list have been included after reading Jan Van Haaren's Jan Van Haaren's Soccer Analytics Reviews ([2020]https://janvanhaaren.be/posts/soccer-analytics-review-2020/)), 2021), 2022)), and 2023). All credit to him for reading a paper a week and making his reviews publicly available and give his reviews a read through if you haven't already done so!\nThe following Shiny App from Lars Maurath is a great tool for looking up publications [link].\nSee the following webpages of conference papers per year (where available):\nThe list of books below include are not only for football but for sports analytics in general.\nSee the following reading lists for book recommendations from other sports data scientists:\nThe following use Amazon UK links where available and are not affiliate links.\nThe following is a series of playlists that that I have collated originally for my own personal viewing but they may be useful to you:\nPlaylists created by others\nBelow I've tried to include both the Sports/Football Analytics and then notable episodes of all podcasts that have analytical content/interviews. Spotify and YouTube links used where available. All episodes mentioned below that are available on Spotify can be found in the following playlist (updated periodically): [link].\nThe following includes non-football competitions.\nFor live job postings tracked by the community, check the Jobs channel of the Football in Numbers Discord server.\nThe list of clubs is quite UK-centric. I would like to add more clubs but it takes a bit of time.\nFocus on some of the key topics in football analytics. Most of the following resources features above but are instead reorganised by topic. This section is still very much a work in progress as I go along and may be missing resources mentioned above.\nFor a playlist of Expected Goals related videos available on YouTube, see the following playlist I have created [link].\nFor a collated list of Expected Goals literature collated by Keith Lyons, see the following [link]\nPitch Control modelling and Valuing Actions tutorials by Laurie Shaw as part of his Metrica Sports Tracking data series for Friends of Tracking. See the following for code [link]\nSection created after seeing the following tweets and threads by Ashwin Raman ([link]) and Stuart Reid ([link])\nThanks to all those that have kindly wrote about or promoted this GitHub repository. See:\nThis GitHub repository and resources list is always a work in progress, with new resources added semi-regularly. If you feel there's any resource(s) that I've missed, I'm always open to contributions! Please feel free to create a pull request or send me a message @ edd.webster.analytics@gmail.com or @eddwebster and I'll get back to you as quick as I can!\nIf you're new to creating a pull request, please follow these steps (based on this)\nStar history for the repository.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Research Football: A Novel Reinforcement Learning Environment",
+          "description": "(2020) by Karol Kurach, Anton Raichuk, Piotr Stańczyk, Michał Zając, Olivier Bachem, Lasse Espeholt, Carlos Riquelme, Damien Vincent, Marcin Michalski, Olivier Bousquet, Sylvain Gelly. See the GitHub repo [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190005983,
+            "language": "Python",
+            "last_commit": "2025-06-17T08:34:25Z",
+            "owner": "google-research",
+            "repo": "football",
+            "stars": 3659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Player Chemistry: Striving for a Perfectly Balanced Soccer Team",
+          "description": "(2020) by Lotte Bransen. See the accompanying Friends of Tracking video tutorials [link] and chapter 4 of the Barça Innovation Hub Football Analytics 2021 publication, titled: 'How does context affect player performance in football?' by Lotte Bransen, Pieter Robberechts, Jesse Davis, Tom Decroos, andJan Van Haaren [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261864530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-06T22:38:21Z",
+            "owner": "soccer-analytics-research",
+            "repo": "fot-valuing-actions",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inverse Reinforcement Learning for Team Sports: Valuing Actions and Players",
+          "description": "(2020) by Yudong Luo, Oliver Schulte and Pascal Poupart. See the code [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259489124,
+            "language": "Python",
+            "last_commit": "2021-02-25T00:48:56Z",
+            "owner": "miyunluo",
+            "repo": "IRL-icehockey",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "David Sumpter's Expected Goals webinars for #FoT - How to Build An Expected Goals Model 1: Data and Model",
+          "description": ", How to Build An Expected Goals Model 2: Statistical fitting, and The Ultimate Guide to Expected Goals. See the following for code 3xGModel, 4LinearRegression, 5xGModelFit.py, and 6MeasuresOfFit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252949740,
+            "language": "Python",
+            "last_commit": "2022-02-22T00:26:44Z",
+            "owner": "Friends-of-Tracking-Data-FoTD",
+            "repo": "SoccermaticsForPython",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laurie Shaw's Metrica Sports Tracking data series for Friends of Tracking",
+          "description": "Introduction, Measuring Physical Performance, Pitch Control modelling, and Valuing Actions. See the following for code [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253255612,
+            "language": "Python",
+            "last_commit": "2022-11-03T01:16:07Z",
+            "owner": "Friends-of-Tracking-Data-FoTD",
+            "repo": "LaurieOnTracking",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lotte Bransen",
+          "description": "andJan Van Haaren's 'Valuating Actions in Football' series for Friends of Tracking - Valuing Actions in Football: Introduction, Valuing Actions in Football 1: From Wyscout Data to Rating Players, Valuing Actions in Football 2: Generating Features, Valuing Actions in Football 3: Training Machine Learning Models, and Valuing Actions in Football 4: Analyzing Models and Results. See the following for code [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261864530,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-06T22:38:21Z",
+            "owner": "soccer-analytics-research",
+            "repo": "fot-valuing-actions",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peter McKeever",
+          "description": "'s 'Good practice in data visualisation' webinar for Friends of Tracking. See the following for code [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292549688,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-09-03T12:30:39Z",
+            "owner": "petermckeeverPerform",
+            "repo": "friends-of-tracking-viz-lecture",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Kraus Clemens. See the following notebooks:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Expected goal model with logistic regression",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253720098,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-03T13:25:38Z",
+                "owner": "CleKraus",
+                "repo": "soccer_analytics",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Challenges using gradient boosters",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253720098,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-06-03T13:25:38Z",
+                "owner": "CleKraus",
+                "repo": "soccer_analytics",
+                "stars": 135
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 253720098,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-03T13:25:38Z",
+            "owner": "CleKraus",
+            "repo": "soccer_analytics",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "] by Dato Fútbol (Ismael Gómez Schmidt)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255459889,
+            "language": "R",
+            "last_commit": "2023-08-09T22:33:32Z",
+            "owner": "Dato-Futbol",
+            "repo": "xg-model",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Andrew Rowlinson. See both his thesis [link] and the following notebooks:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Explore Data Quality Overlap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Expected Goals Model",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Expected Goals Calculate xG and Shap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Visualise Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kernel Density Probability Scoring",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simulate Match Results from xG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freeze Frame Examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red Zone Heatmap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shots Follow Poisson Distribution",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Angle Features",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268040393,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-13T17:54:12Z",
+                "owner": "andrewRowlinson",
+                "repo": "expected-goals-thesis",
+                "stars": 57
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 268040393,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-13T17:54:12Z",
+            "owner": "andrewRowlinson",
+            "repo": "expected-goals-thesis",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Andrew Puopolo. See the following notebooks:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Setting Our Data Up",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262191769,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-27T14:13:50Z",
+                "owner": "andrewsimplebet",
+                "repo": "expected_goals_deep_dive",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Random Forest Cross Validation And Hyperparameter Tuning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262191769,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-27T14:13:50Z",
+                "owner": "andrewsimplebet",
+                "repo": "expected_goals_deep_dive",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Comparing Logistic Regression and Random Forest For Expected Goals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262191769,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-27T14:13:50Z",
+                "owner": "andrewsimplebet",
+                "repo": "expected_goals_deep_dive",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calibrating Expected Goals Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262191769,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-27T14:13:50Z",
+                "owner": "andrewsimplebet",
+                "repo": "expected_goals_deep_dive",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sanity Checking Our Expected Goals Model and Final Thoughts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262191769,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-27T14:13:50Z",
+                "owner": "andrewsimplebet",
+                "repo": "expected_goals_deep_dive",
+                "stars": 35
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 262191769,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-27T14:13:50Z",
+            "owner": "andrewsimplebet",
+            "repo": "expected_goals_deep_dive",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Ian Dragulet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318367868,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-28T06:17:14Z",
+            "owner": "iandragulet",
+            "repo": "xG_Model_Workflow",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a R package to allow users to extract various world football results and player statistics data from FBref and valuations and transfer data from TransferMarkt.com by Jason Zivkovic (see guide on how to use this package [link])",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 325954224,
+            "language": "R",
+            "last_commit": "2025-09-18T19:59:35Z",
+            "owner": "JaseZiv",
+            "repo": "worldfootballR",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a Python package to scrape data from FBRef, Understat and FiveThirtyEight by Owen Seymour",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350952012,
+            "language": "Python",
+            "last_commit": "2026-05-13T03:21:25Z",
+            "owner": "oseymour",
+            "repo": "ScraperFC",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a Python webscraper by Amos Bastian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174174137,
+            "language": "Python",
+            "last_commit": "2025-12-16T15:52:42Z",
+            "owner": "amosbastian",
+            "repo": "understat",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Python library to scrape StatsBomb data via FBref by Parthe Athale, which in turn was updated from Christopher Martin's repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275852514,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-21T09:47:27Z",
+            "owner": "parth1902",
+            "repo": "Scrape-FBref-data",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a Python TransferMarkt webscraper by FCrSTATS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271961891,
+            "language": "Python",
+            "last_commit": "2022-12-05T09:48:11Z",
+            "owner": "FCrSTATS",
+            "repo": "tyrone_mings",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a R package to scrape data from Understat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156093616,
+            "language": "R",
+            "last_commit": "2021-09-02T18:23:17Z",
+            "owner": "ewenme",
+            "repo": "understatr",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a Python TransferMarkt webscraper by danzn1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337045397,
+            "language": "Python",
+            "last_commit": "2021-02-26T09:42:53Z",
+            "owner": "znstrider",
+            "repo": "tmscrape",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61976333,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-08-19T02:39:01Z",
+            "owner": "junhwanjang",
+            "repo": "whoscored",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 426572944,
+            "language": "Python",
+            "last_commit": "2021-11-22T13:09:36Z",
+            "owner": "EmilDanielsson",
+            "repo": "Player-Rating-Project",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158586450,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-15T02:36:41Z",
+            "owner": "asquare14",
+            "repo": "Football-Player-Rating-Predictions",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "R scripts by Jack Tattersall - 01_load_data.R, 02_train_xgboost.R, 03_xgboost_predict.R, randomforest.R. See the accompanying Medium post: Using machine learning to identify high-value football transfer targets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325076031,
+            "language": "HTML",
+            "last_commit": "2021-01-13T11:35:22Z",
+            "owner": "jtattersall09403",
+            "repo": "football_scout_ml",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Burak Arslan. See the accompanying GitHub repo [link] and Medium Blog: Is It Possible to Predict Football Players’ Value",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325201145,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-27T19:34:22Z",
+            "owner": "burakarslan",
+            "repo": "DSbootcamp-Project2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "package by Jason Zivkovic that include TransferMarkt webscraping (see guide [link])",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 325954224,
+            "language": "R",
+            "last_commit": "2025-09-18T19:59:35Z",
+            "owner": "JaseZiv",
+            "repo": "worldfootballR",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "TransferMarkt webscraper by FCrSTATS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271961891,
+            "language": "Python",
+            "last_commit": "2022-12-05T09:48:11Z",
+            "owner": "FCrSTATS",
+            "repo": "tyrone_mings",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Predicting Football Player Transfer Values",
+          "description": "by Sanjit Varma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 396070254,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-13T20:49:09Z",
+            "owner": "sanjitva",
+            "repo": "Predicting-Football-Player-Transfer-Values",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a repo that uses machine learning to identify high-value targets in the football transfer market by James Tattersall. See the accompanying Medium Post [link]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325076031,
+            "language": "HTML",
+            "last_commit": "2021-01-13T11:35:22Z",
+            "owner": "jtattersall09403",
+            "repo": "football_scout_ml",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by Burak Arslan. See the accompanying Medium Blog: Is It Possible to Predict Football Players’ Value",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325201145,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-27T19:34:22Z",
+            "owner": "burakarslan",
+            "repo": "DSbootcamp-Project2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "by . GitHub repo for understanding trends in football transfers through an attempt to build a prediction model to predict the market value of players using Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224636802,
+            "language": "Python",
+            "last_commit": "2020-01-29T11:47:05Z",
+            "owner": "siddarthkrishna10",
+            "repo": "Football_Transfers",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "repository by Matias Singers used to restyle this README",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29456624,
+            "language": null,
+            "last_commit": "2026-07-27T16:54:15Z",
+            "owner": "matiassingers",
+            "repo": "awesome-readme",
+            "stars": 21334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soccer Analytics Handbook",
+          "description": "by Devin Pleuler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253494443,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-26T22:14:52Z",
+            "owner": "devinpleuler",
+            "repo": "analytics-handbook",
+            "stars": 1694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Soccer Analytics",
+          "description": "by Matias Mascioto",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170770806,
+            "language": null,
+            "last_commit": "2020-11-17T15:36:48Z",
+            "owner": "matiasmascioto",
+            "repo": "awesome-soccer-analytics",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jan Van Haaren",
+          "description": "'s Github repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301141732,
+            "language": null,
+            "last_commit": "2021-11-15T22:00:40Z",
+            "owner": "JanVanHaaren",
+            "repo": "soccer-analytics-resources",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Tweets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:55:05.704Z",
+    "last_updated": "2026-08-19T12:32:14.960Z",
     "original_repository": "eddwebster/football_analytics",
+    "original_repository_id": 292020432,
     "original_repository_sha": "47cac1ba5c9748b057b7cfa366dd3d7a21d73575",
     "enhanced_repository": "enhansome/enhansome-football_analytics",
     "enhanced_repository_description": null,
