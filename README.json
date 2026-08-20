@@ -246,7 +246,7 @@
             "last_commit": "2025-10-09T10:51:47Z",
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2734
+            "stars": 2735
           }
         },
         {
@@ -291,13 +291,13 @@
           "description": "(2020) by Karol Kurach, Anton Raichuk, Piotr Stańczyk, Michał Zając, Olivier Bachem, Lasse Espeholt, Carlos Riquelme, Damien Vincent, Marcin Michalski, Olivier Bousquet, Sylvain Gelly. See the GitHub repo [link]",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 190005983,
             "language": "Python",
             "last_commit": "2025-06-17T08:34:25Z",
             "owner": "google-research",
             "repo": "football",
-            "stars": 3659
+            "stars": 3660
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-07-27T16:54:15Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21334
+            "stars": 21336
           }
         },
         {
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:14.960Z",
+    "last_updated": "2026-08-20T01:54:14.343Z",
     "original_repository": "eddwebster/football_analytics",
     "original_repository_id": 292020432,
     "original_repository_sha": "47cac1ba5c9748b057b7cfa366dd3d7a21d73575",
