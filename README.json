@@ -562,7 +562,7 @@
             "last_commit": "2021-04-15T16:35:37Z",
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 493
+            "stars": 494
           }
         },
         {
@@ -862,7 +862,7 @@
             "last_commit": "2021-04-15T16:35:37Z",
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 493
+            "stars": 494
           }
         },
         {
@@ -1499,7 +1499,7 @@
             "last_commit": "2025-06-17T08:34:25Z",
             "owner": "google-research",
             "repo": "football",
-            "stars": 3660
+            "stars": 3661
           }
         },
         {
@@ -1706,7 +1706,7 @@
             "archived": false,
             "id": 142275122,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T21:38:11Z",
+            "last_commit": "2026-08-25T02:59:38Z",
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
             "stars": 348
@@ -1844,7 +1844,7 @@
             "last_commit": "2026-08-21T18:11:52Z",
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -1859,7 +1859,7 @@
             "last_commit": "2026-08-21T18:11:52Z",
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -4349,7 +4349,7 @@
             "last_commit": "2021-04-15T16:35:37Z",
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 493
+            "stars": 494
           }
         },
         {
@@ -5174,7 +5174,7 @@
             "last_commit": "2025-06-17T08:34:25Z",
             "owner": "google-research",
             "repo": "football",
-            "stars": 3660
+            "stars": 3661
           }
         },
         {
@@ -5867,7 +5867,7 @@
             "last_commit": "2025-06-17T08:34:25Z",
             "owner": "google-research",
             "repo": "football",
-            "stars": 3660
+            "stars": 3661
           }
         },
         {
@@ -6183,7 +6183,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/BinhHong/Attacking-wingbacks-in-top-5-leagues-in-Europe/blob/d2897a439aef9655c884ad68a25c579434b12e15/README.md",
+              "title": "BinhHong/Attacking-wingbacks-in-top-5-leagues-in-Europe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -6198,7 +6198,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/learnuidev/footy-analytics/tree/fe793f88e3a1a16a2a06bf1e12ed90f4e2869726",
+              "title": "learnuidev/footy-analytics",
               "description": null,
               "children": [],
               "repo_info": {
@@ -6225,7 +6225,7 @@
             "last_commit": "2026-08-20T19:50:09Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21365
+            "stars": 21367
           }
         },
         {
@@ -6278,7 +6278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:54:54.863Z",
+    "last_updated": "2026-08-25T05:55:36.693Z",
     "original_repository": "eddwebster/football_analytics",
     "original_repository_id": 292020432,
     "original_repository_sha": "47cac1ba5c9748b057b7cfa366dd3d7a21d73575",
