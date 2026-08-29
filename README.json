@@ -139,7 +139,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-13T03:21:25Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "oseymour",
             "repo": "ScraperFC",
             "stars": 408,
@@ -989,7 +989,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-13T03:21:25Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "oseymour",
             "repo": "ScraperFC",
             "stars": 408,
@@ -1119,7 +1119,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-13T03:21:25Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "oseymour",
             "repo": "ScraperFC",
             "stars": 408,
@@ -1930,7 +1930,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-13T03:21:25Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "oseymour",
             "repo": "ScraperFC",
             "stars": 408,
@@ -2659,7 +2659,7 @@
             "open_issues": 0,
             "owner": "openfootball",
             "repo": "football.json",
-            "stars": 1006,
+            "stars": 1007,
             "topics": [
               "bundesliga",
               "football",
@@ -2901,7 +2901,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-28T12:59:49Z",
+            "last_commit": "2026-08-29T06:18:01Z",
             "open_issues": 80,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -3624,7 +3624,7 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:11:36Z",
+            "last_commit": "2026-08-29T06:19:08Z",
             "open_issues": 1,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
@@ -6473,7 +6473,7 @@
             "open_issues": 1,
             "owner": "FCrSTATS",
             "repo": "SBpitch",
-            "stars": 55,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -7597,7 +7597,7 @@
             "open_issues": 1,
             "owner": "FCrSTATS",
             "repo": "SBpitch",
-            "stars": 55,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9365,7 +9365,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-05-13T03:21:25Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "oseymour",
             "repo": "ScraperFC",
             "stars": 408,
@@ -10184,7 +10184,7 @@
             "open_issues": 1,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21388,
+            "stars": 21389,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10276,7 +10276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:44.843Z",
+    "last_updated": "2026-08-29T07:08:41.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
