@@ -415,7 +415,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -457,7 +457,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -499,7 +499,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -541,7 +541,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -583,7 +583,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "JanVanHaaren",
             "repo": "soccer-analytics-resources",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "football",
               "football-analysis",
@@ -858,7 +858,7 @@
                 "open_issues": 0,
                 "owner": "JanVanHaaren",
                 "repo": "soccer-analytics-resources",
-                "stars": 127,
+                "stars": 128,
                 "topics": [
                   "football",
                   "football-analysis",
@@ -888,7 +888,7 @@
             "open_issues": 58,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3565,
+            "stars": 3567,
             "topics": [
               "football",
               "football-data",
@@ -916,7 +916,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -1308,7 +1308,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -1434,7 +1434,7 @@
             "open_issues": 6,
             "owner": "jokecamp",
             "repo": "FootballData",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "data",
               "football",
@@ -1502,7 +1502,7 @@
             "open_issues": 58,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3565,
+            "stars": 3567,
             "topics": [
               "football",
               "football-data",
@@ -2049,7 +2049,7 @@
             "open_issues": 3,
             "owner": "parth1902",
             "repo": "Scrape-FBref-data",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2502,7 +2502,7 @@
             "open_issues": 22,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17431,
+            "stars": 17432,
             "topics": [
               "data"
             ]
@@ -2549,7 +2549,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -2659,7 +2659,7 @@
             "open_issues": 0,
             "owner": "openfootball",
             "repo": "football.json",
-            "stars": 1007,
+            "stars": 1008,
             "topics": [
               "bundesliga",
               "football",
@@ -2715,7 +2715,7 @@
             "open_issues": 6,
             "owner": "jokecamp",
             "repo": "FootballData",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "data",
               "football",
@@ -2759,7 +2759,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-01-31T17:20:05Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "roclark",
             "repo": "sportsipy",
             "stars": 569,
@@ -2901,7 +2901,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-29T06:18:01Z",
+            "last_commit": "2026-08-29T22:19:54Z",
             "open_issues": 80,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -3624,7 +3624,7 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T06:19:08Z",
+            "last_commit": "2026-08-30T05:02:41Z",
             "open_issues": 1,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
@@ -3656,6 +3656,27 @@
         },
         {
           "node_type": "item",
+          "title": "sn-calibration",
+          "description": "by SoccerNet - repository containing all necessary codes to get started on the SoccerNet Camera Calibration challenge. This repository also contains benchmark methods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Repository containing all necessary codes to get started on the SoccerNet Camera Calibration challenge. This repository also contains benchmark methods.",
+            "homepage": null,
+            "id": 440546738,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-06-18T17:37:39Z",
+            "open_issues": 3,
+            "owner": "SoccerNet",
+            "repo": "sn-calibration",
+            "stars": 109,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
           "title": "sn-tracking",
           "description": "by SoccerNet - repository containing all necessary codes to get started on the SoccerNet Tracking challenge. This repository also contains benchmark methods to get started",
           "children": [],
@@ -3677,27 +3698,6 @@
         },
         {
           "node_type": "item",
-          "title": "sn-calibration",
-          "description": "by SoccerNet - repository containing all necessary codes to get started on the SoccerNet Camera Calibration challenge. This repository also contains benchmark methods",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Repository containing all necessary codes to get started on the SoccerNet Camera Calibration challenge. This repository also contains benchmark methods.",
-            "homepage": null,
-            "id": 440546738,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-06-18T17:37:39Z",
-            "open_issues": 3,
-            "owner": "SoccerNet",
-            "repo": "sn-calibration",
-            "stars": 107,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
           "title": "sn-spotting",
           "description": "by SoccerNet - fepository containing all necessary codes to get started on the SoccerNet Action Spotting challenge. This repository also contains several benchmark methods",
           "children": [],
@@ -3712,7 +3712,7 @@
             "open_issues": 3,
             "owner": "SoccerNet",
             "repo": "sn-spotting",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -3969,7 +3969,7 @@
             "open_issues": 0,
             "owner": "SoccerNet",
             "repo": "SoccerNet-v3",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -6109,7 +6109,7 @@
             "open_issues": 2,
             "owner": "ewenme",
             "repo": "transfers",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "football",
               "football-data",
@@ -7100,7 +7100,7 @@
             "open_issues": 6,
             "owner": "jokecamp",
             "repo": "FootballData",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "data",
               "football",
@@ -7499,7 +7499,7 @@
             "open_issues": 0,
             "owner": "JanVanHaaren",
             "repo": "soccer-analytics-resources",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "football",
               "football-analysis",
@@ -8458,7 +8458,7 @@
             "open_issues": 8,
             "owner": "eddwebster",
             "repo": "football_analytics",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "analytics",
               "awesome",
@@ -9419,7 +9419,7 @@
             "open_issues": 3,
             "owner": "parth1902",
             "repo": "Scrape-FBref-data",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9770,7 +9770,7 @@
                 "open_issues": 22,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17431,
+                "stars": 17432,
                 "topics": [
                   "data"
                 ]
@@ -9947,7 +9947,7 @@
             "open_issues": 2,
             "owner": "ewenme",
             "repo": "transfers",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "football",
               "football-data",
@@ -10184,7 +10184,7 @@
             "open_issues": 1,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21389,
+            "stars": 21392,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10259,7 +10259,7 @@
             "open_issues": 0,
             "owner": "JanVanHaaren",
             "repo": "soccer-analytics-resources",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "football",
               "football-analysis",
@@ -10276,7 +10276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:08:41.279Z",
+    "last_updated": "2026-08-30T05:29:35.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -10288,7 +10288,7 @@
       "open_issues": 8,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2756,
+      "stars": 2758,
       "topics": [
         "analytics",
         "awesome",
