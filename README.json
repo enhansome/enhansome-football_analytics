@@ -97,10 +97,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-01T21:50:22Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "PySport",
             "repo": "kloppy",
-            "stars": 553,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -118,10 +118,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-31T20:40:47Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "andrewRowlinson",
             "repo": "mplsoccer",
-            "stars": 544,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -204,7 +204,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-04T16:10:27Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "floodlight-sports",
             "repo": "floodlight",
             "stars": 130,
@@ -692,7 +692,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-03-30T18:13:51Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "diegopastor",
             "repo": "awesome-football-analytics",
             "stars": 215,
@@ -825,7 +825,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2022-03-30T18:13:51Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "diegopastor",
                 "repo": "awesome-football-analytics",
                 "stars": 215,
@@ -888,7 +888,7 @@
             "open_issues": 59,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3609,
+            "stars": 3612,
             "topics": [
               "football",
               "football-data",
@@ -1097,7 +1097,7 @@
             "open_issues": 1,
             "owner": "SkillCorner",
             "repo": "opendata",
-            "stars": 406,
+            "stars": 409,
             "topics": [
               "datascience",
               "soccer",
@@ -1502,7 +1502,7 @@
             "open_issues": 59,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3609,
+            "stars": 3612,
             "topics": [
               "football",
               "football-data",
@@ -1551,7 +1551,7 @@
             "open_issues": 1,
             "owner": "SkillCorner",
             "repo": "opendata",
-            "stars": 406,
+            "stars": 409,
             "topics": [
               "datascience",
               "soccer",
@@ -1888,10 +1888,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-01T21:50:22Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "PySport",
             "repo": "kloppy",
-            "stars": 553,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1909,10 +1909,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-31T20:40:47Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "andrewRowlinson",
             "repo": "mplsoccer",
-            "stars": 544,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2088,7 +2088,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-04T16:10:27Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "floodlight-sports",
             "repo": "floodlight",
             "stars": 130,
@@ -2502,7 +2502,7 @@
             "open_issues": 22,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17443,
+            "stars": 17445,
             "topics": [
               "data"
             ]
@@ -2835,7 +2835,7 @@
             "open_issues": 50,
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 499,
+            "stars": 500,
             "topics": [
               "analytics",
               "dataset",
@@ -2922,7 +2922,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-12T13:24:40Z",
+            "last_commit": "2026-09-13T09:45:45Z",
             "open_issues": 82,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -3128,7 +3128,7 @@
             "id": 374589145,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:41:55Z",
+            "last_commit": "2026-09-13T14:21:11Z",
             "open_issues": 0,
             "owner": "martineastwood",
             "repo": "penaltyblog",
@@ -3170,7 +3170,7 @@
             "id": 374589145,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:41:55Z",
+            "last_commit": "2026-09-13T14:21:11Z",
             "open_issues": 0,
             "owner": "martineastwood",
             "repo": "penaltyblog",
@@ -3234,7 +3234,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T06:01:33Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "solioanalytics",
             "repo": "open-fpl-solver",
             "stars": 190,
@@ -3625,7 +3625,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-12T20:27:00Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
             "stars": 117,
@@ -4331,7 +4331,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T17:04:08Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "American-Soccer-Analysis",
             "repo": "itscalledsoccer",
             "stars": 61,
@@ -4413,6 +4413,32 @@
         },
         {
           "node_type": "item",
+          "title": "Scrape-Whoscored-Event-Data",
+          "description": "by Ali Hasan Khan - get match event data from whoscored.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Get match event data from whoscored.com",
+            "homepage": "https://whoscoredscraper.alihk.tech/",
+            "id": 303951495,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-08-28T13:53:59Z",
+            "open_issues": 0,
+            "owner": "Ali-Hasan-Khan",
+            "repo": "Scrape-Whoscored-Event-Data",
+            "stars": 54,
+            "topics": [
+              "python3",
+              "scraping-websites",
+              "selenium-python",
+              "tutorial"
+            ]
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
           "title": "Football-Analytics",
           "description": "by Daniel Azevedo - repository that explores some concepts of football analytics using event data and tracking data from different sources",
           "children": [],
@@ -4429,32 +4455,6 @@
             "repo": "Football-Analytics",
             "stars": 53,
             "topics": []
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Scrape-Whoscored-Event-Data",
-          "description": "by Ali Hasan Khan - get match event data from whoscored.com",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Get match event data from whoscored.com",
-            "homepage": "https://whoscoredscraper.alihk.tech/",
-            "id": 303951495,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-08-28T13:53:59Z",
-            "open_issues": 0,
-            "owner": "Ali-Hasan-Khan",
-            "repo": "Scrape-Whoscored-Event-Data",
-            "stars": 53,
-            "topics": [
-              "python3",
-              "scraping-websites",
-              "selenium-python",
-              "tutorial"
-            ]
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
         },
@@ -4564,7 +4564,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T00:32:51Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "sportsdataverse",
             "repo": "sportypy",
             "stars": 50,
@@ -7235,7 +7235,7 @@
             "open_issues": 1,
             "owner": "SkillCorner",
             "repo": "opendata",
-            "stars": 406,
+            "stars": 409,
             "topics": [
               "datascience",
               "soccer",
@@ -7311,7 +7311,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-03-30T18:13:51Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "diegopastor",
             "repo": "awesome-football-analytics",
             "stars": 215,
@@ -8077,10 +8077,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-31T20:40:47Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "andrewRowlinson",
             "repo": "mplsoccer",
-            "stars": 544,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9770,7 +9770,7 @@
                 "open_issues": 22,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17443,
+                "stars": 17445,
                 "topics": [
                   "data"
                 ]
@@ -10163,7 +10163,7 @@
             "open_issues": 1,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21435,
+            "stars": 21436,
             "topics": [
               "awesome",
               "awesome-list",
@@ -10255,7 +10255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T04:54:34.384Z",
+    "last_updated": "2026-09-14T05:02:45.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
