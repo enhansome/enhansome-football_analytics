@@ -53,7 +53,7 @@
             "open_issues": 38,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -96,11 +96,11 @@
             "id": 257815524,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T20:58:11Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-03T13:15:41Z",
+            "open_issues": 82,
             "owner": "PySport",
             "repo": "kloppy",
-            "stars": 557,
+            "stars": 558,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -278,7 +278,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "cran",
               "fbref",
@@ -461,7 +461,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-30T10:56:35Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "openfootball",
             "repo": "awesome-football",
             "stars": 251,
@@ -678,7 +678,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3664,
+            "stars": 3667,
             "topics": [
               "football",
               "football-data",
@@ -997,7 +997,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "cran",
               "fbref",
@@ -1095,7 +1095,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-30T10:56:35Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "openfootball",
             "repo": "awesome-football",
             "stars": 251,
@@ -1116,7 +1116,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-30T10:56:35Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "openfootball",
             "repo": "awesome-football",
             "stars": 251,
@@ -1208,7 +1208,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3664,
+            "stars": 3667,
             "topics": [
               "football",
               "football-data",
@@ -1550,7 +1550,7 @@
             "open_issues": 38,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -1593,11 +1593,11 @@
             "id": 257815524,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T20:58:11Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-03T13:15:41Z",
+            "open_issues": 82,
             "owner": "PySport",
             "repo": "kloppy",
-            "stars": 557,
+            "stars": 558,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2022,7 +2022,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "cran",
               "fbref",
@@ -2255,7 +2255,7 @@
             "open_issues": 37,
             "owner": "vaastav",
             "repo": "Fantasy-Premier-League",
-            "stars": 1812,
+            "stars": 1810,
             "topics": [
               "fantasy-premier-league",
               "fpl",
@@ -2353,7 +2353,7 @@
             "open_issues": 38,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -2586,8 +2586,8 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:26:25Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-03T09:23:18Z",
+            "open_issues": 81,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
             "stars": 352,
@@ -2751,7 +2751,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-30T10:56:35Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "openfootball",
             "repo": "awesome-football",
             "stars": 251,
@@ -2796,7 +2796,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "betting",
               "betting-models",
@@ -2838,7 +2838,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "betting",
               "betting-models",
@@ -3288,7 +3288,7 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:36:17Z",
+            "last_commit": "2026-10-04T05:28:39Z",
             "open_issues": 8,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
@@ -3640,6 +3640,32 @@
         },
         {
           "node_type": "item",
+          "title": "d3-soccer",
+          "description": "by Pieter Robberechts - a D3 plugin for visualizing event stream soccer data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📊⚽️ A D3 plugin for visualizing event stream soccer data.",
+            "homepage": null,
+            "id": 272812910,
+            "language": "JavaScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2025-03-03T01:13:50Z",
+            "open_issues": 5,
+            "owner": "probberechts",
+            "repo": "d3-soccer",
+            "stars": 78,
+            "topics": [
+              "d3",
+              "dataviz",
+              "football",
+              "soccer"
+            ]
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
           "title": "fifa-FUT-Data",
           "description": "by Ali Kafagy - web-scraping script that writes the data of all players from FutHead and FutBin to a CSV file or a DB",
           "children": [],
@@ -3673,32 +3699,6 @@
               "video-game",
               "webcrawling",
               "webscraping"
-            ]
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
-          "title": "d3-soccer",
-          "description": "by Pieter Robberechts - a D3 plugin for visualizing event stream soccer data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📊⚽️ A D3 plugin for visualizing event stream soccer data.",
-            "homepage": null,
-            "id": 272812910,
-            "language": "JavaScript",
-            "license": "BSD-3-Clause",
-            "last_commit": "2025-03-03T01:13:50Z",
-            "open_issues": 5,
-            "owner": "probberechts",
-            "repo": "d3-soccer",
-            "stars": 77,
-            "topics": [
-              "d3",
-              "dataviz",
-              "football",
-              "soccer"
             ]
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -8957,7 +8957,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "cran",
               "fbref",
@@ -9340,7 +9340,7 @@
             "open_issues": 38,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -9511,7 +9511,7 @@
                     "open_issues": 1,
                     "owner": "JaseZiv",
                     "repo": "worldfootballR",
-                    "stars": 599,
+                    "stars": 598,
                     "topics": [
                       "cran",
                       "fbref",
@@ -9595,7 +9595,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 599,
+            "stars": 598,
             "topics": [
               "cran",
               "fbref",
@@ -9785,7 +9785,7 @@
             "open_issues": 2,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21530,
+            "stars": 21534,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:24:14.688Z",
+    "last_updated": "2026-10-04T05:59:58.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9889,7 +9889,7 @@
       "open_issues": 8,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2801,
+      "stars": 2803,
       "topics": [
         "analytics",
         "awesome",
