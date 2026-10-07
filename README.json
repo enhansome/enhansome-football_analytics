@@ -464,7 +464,7 @@
             "open_issues": 109,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -678,7 +678,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3672,
+            "stars": 3674,
             "topics": [
               "football",
               "football-data",
@@ -782,7 +782,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -803,7 +803,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 360,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1030,7 +1030,7 @@
             "open_issues": 12,
             "owner": "martj42",
             "repo": "international_results",
-            "stars": 523,
+            "stars": 522,
             "topics": [
               "football",
               "football-data",
@@ -1077,7 +1077,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 360,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1098,7 +1098,7 @@
             "open_issues": 109,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 109,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3672,
+            "stars": 3674,
             "topics": [
               "football",
               "football-data",
@@ -1236,7 +1236,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1430,7 +1430,7 @@
                 "open_issues": 4,
                 "owner": "Friends-of-Tracking-Data-FoTD",
                 "repo": "LaurieOnTracking",
-                "stars": 360,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2208,7 +2208,7 @@
             "open_issues": 22,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17460,
+            "stars": 17462,
             "topics": [
               "data"
             ]
@@ -2548,7 +2548,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 360,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2754,7 +2754,7 @@
             "open_issues": 109,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2976,7 +2976,7 @@
             "open_issues": 1,
             "owner": "datasets",
             "repo": "football-datasets",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "csv",
               "data",
@@ -3288,8 +3288,8 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:12:47Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-06T17:36:49Z",
+            "open_issues": 10,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
             "stars": 121,
@@ -3640,6 +3640,45 @@
         },
         {
           "node_type": "item",
+          "title": "fifa-FUT-Data",
+          "description": "by Ali Kafagy - web-scraping script that writes the data of all players from FutHead and FutBin to a CSV file or a DB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Web-scraping script that writes the data of all players from FutHead and FutBin to a CSV file or a DB",
+            "homepage": null,
+            "id": 103575435,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2019-11-26T07:16:58Z",
+            "open_issues": 7,
+            "owner": "kafagy",
+            "repo": "fifa-FUT-Data",
+            "stars": 79,
+            "topics": [
+              "csv",
+              "database",
+              "dataset",
+              "fifa",
+              "fifa-ultimate-team",
+              "fifa18",
+              "fifa19",
+              "futbin",
+              "futbin-prices",
+              "futhead",
+              "mysql",
+              "player-data",
+              "python",
+              "soccer",
+              "video-game",
+              "webcrawling",
+              "webscraping"
+            ]
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
           "title": "d3-soccer",
           "description": "by Pieter Robberechts - a D3 plugin for visualizing event stream soccer data",
           "children": [],
@@ -3660,45 +3699,6 @@
               "dataviz",
               "football",
               "soccer"
-            ]
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fifa-FUT-Data",
-          "description": "by Ali Kafagy - web-scraping script that writes the data of all players from FutHead and FutBin to a CSV file or a DB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web-scraping script that writes the data of all players from FutHead and FutBin to a CSV file or a DB",
-            "homepage": null,
-            "id": 103575435,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2019-11-26T07:16:58Z",
-            "open_issues": 7,
-            "owner": "kafagy",
-            "repo": "fifa-FUT-Data",
-            "stars": 78,
-            "topics": [
-              "csv",
-              "database",
-              "dataset",
-              "fifa",
-              "fifa-ultimate-team",
-              "fifa18",
-              "fifa19",
-              "futbin",
-              "futbin-prices",
-              "futhead",
-              "mysql",
-              "player-data",
-              "python",
-              "soccer",
-              "video-game",
-              "webcrawling",
-              "webscraping"
             ]
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -6091,7 +6091,7 @@
             "id": 219478427,
             "language": "R",
             "license": null,
-            "last_commit": "2026-09-09T15:36:56Z",
+            "last_commit": "2026-10-06T22:11:11Z",
             "open_issues": 4,
             "owner": "LeoEgidi",
             "repo": "footBayes",
@@ -6818,7 +6818,7 @@
             "open_issues": 12,
             "owner": "martj42",
             "repo": "international_results",
-            "stars": 523,
+            "stars": 522,
             "topics": [
               "football",
               "football-data",
@@ -6844,7 +6844,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 503,
+            "stars": 502,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -8278,7 +8278,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 360,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9132,7 +9132,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 360,
+            "stars": 357,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9392,7 +9392,7 @@
                 "open_issues": 22,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17460,
+                "stars": 17462,
                 "topics": [
                   "data"
                 ]
@@ -9785,7 +9785,7 @@
             "open_issues": 2,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21543,
+            "stars": 21540,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:51.136Z",
+    "last_updated": "2026-10-07T06:07:13.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9889,7 +9889,7 @@
       "open_issues": 8,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2803,
+      "stars": 2802,
       "topics": [
         "analytics",
         "awesome",
