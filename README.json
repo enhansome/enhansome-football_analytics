@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2099,
+            "stars": 2103,
             "topics": [
               "elo-rating",
               "espn",
@@ -97,7 +97,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T13:15:41Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "PySport",
             "repo": "kloppy",
             "stars": 560,
@@ -278,7 +278,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "cran",
               "fbref",
@@ -678,7 +678,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3674,
+            "stars": 3678,
             "topics": [
               "football",
               "football-data",
@@ -706,7 +706,7 @@
             "open_issues": 38,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2099,
+            "stars": 2103,
             "topics": [
               "elo-rating",
               "espn",
@@ -845,7 +845,7 @@
             "open_issues": 1,
             "owner": "SkillCorner",
             "repo": "opendata",
-            "stars": 428,
+            "stars": 430,
             "topics": [
               "datascience",
               "soccer",
@@ -891,7 +891,7 @@
             "open_issues": 38,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2099,
+            "stars": 2103,
             "topics": [
               "elo-rating",
               "espn",
@@ -997,7 +997,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "cran",
               "fbref",
@@ -1026,7 +1026,7 @@
             "id": 138686232,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-26T21:56:29Z",
+            "last_commit": "2026-10-07T14:09:05Z",
             "open_issues": 12,
             "owner": "martj42",
             "repo": "international_results",
@@ -1208,7 +1208,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3674,
+            "stars": 3678,
             "topics": [
               "football",
               "football-data",
@@ -1257,7 +1257,7 @@
             "open_issues": 1,
             "owner": "SkillCorner",
             "repo": "opendata",
-            "stars": 428,
+            "stars": 430,
             "topics": [
               "datascience",
               "soccer",
@@ -1516,7 +1516,7 @@
             "open_issues": 38,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2099,
+            "stars": 2103,
             "topics": [
               "elo-rating",
               "espn",
@@ -1594,7 +1594,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T13:15:41Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "PySport",
             "repo": "kloppy",
             "stars": 560,
@@ -2022,7 +2022,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "cran",
               "fbref",
@@ -2231,7 +2231,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -2499,7 +2499,7 @@
             "open_issues": 50,
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 515,
+            "stars": 518,
             "topics": [
               "analytics",
               "dataset",
@@ -2586,7 +2586,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:27:15Z",
+            "last_commit": "2026-10-07T09:28:03Z",
             "open_issues": 81,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -2701,7 +2701,7 @@
             "open_issues": 3,
             "owner": "mhaythornthwaite",
             "repo": "Football_Prediction_Project",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "data-science",
               "data-visualization",
@@ -2761,27 +2761,6 @@
         },
         {
           "node_type": "item",
-          "title": "football-predictor",
-          "description": "⭐ by Andrew Carter - using a Deep Neural Network (DNN) to predict the results of Premier League Football Matches. See the accompanying article A Beginners Guide to Beating the Bookmakers with TensorFlow",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Using a Deep Neural Network (DNN) to predict the results of Premier League Football Matches",
-            "homepage": null,
-            "id": 121905432,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2022-12-19T09:06:02Z",
-            "open_issues": 7,
-            "owner": "AndrewCarterUK",
-            "repo": "football-predictor",
-            "stars": 230,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
           "title": "penaltyblog",
           "description": "by Martin Eastwood - example code from www.pena.lt/y",
           "children": [],
@@ -2796,7 +2775,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 230,
+            "stars": 232,
             "topics": [
               "betting",
               "betting-models",
@@ -2838,7 +2817,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 230,
+            "stars": 232,
             "topics": [
               "betting",
               "betting-models",
@@ -2861,6 +2840,27 @@
               "sports-betting",
               "statsbomb"
             ]
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
+          "title": "football-predictor",
+          "description": "⭐ by Andrew Carter - using a Deep Neural Network (DNN) to predict the results of Premier League Football Matches. See the accompanying article A Beginners Guide to Beating the Bookmakers with TensorFlow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Using a Deep Neural Network (DNN) to predict the results of Premier League Football Matches",
+            "homepage": null,
+            "id": 121905432,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2022-12-19T09:06:02Z",
+            "open_issues": 7,
+            "owner": "AndrewCarterUK",
+            "repo": "football-predictor",
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
         },
@@ -3288,8 +3288,8 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T17:36:49Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-08T06:08:33Z",
+            "open_issues": 8,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
             "stars": 121,
@@ -3355,7 +3355,7 @@
             "open_issues": 3,
             "owner": "SoccerNet",
             "repo": "sn-calibration",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -3397,7 +3397,7 @@
             "open_issues": 0,
             "owner": "koenvo",
             "repo": "wyscout-soccer-match-event-dataset",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "dataset",
               "soccer",
@@ -3564,7 +3564,7 @@
             "open_issues": 3,
             "owner": "SoccerNet",
             "repo": "sn-reid",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -6814,7 +6814,7 @@
             "id": 138686232,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-26T21:56:29Z",
+            "last_commit": "2026-10-07T14:09:05Z",
             "open_issues": 12,
             "owner": "martj42",
             "repo": "international_results",
@@ -6899,7 +6899,7 @@
             "open_issues": 1,
             "owner": "SkillCorner",
             "repo": "opendata",
-            "stars": 428,
+            "stars": 430,
             "topics": [
               "datascience",
               "soccer",
@@ -8191,7 +8191,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -8957,7 +8957,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "cran",
               "fbref",
@@ -9237,7 +9237,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -9511,7 +9511,7 @@
                     "open_issues": 1,
                     "owner": "JaseZiv",
                     "repo": "worldfootballR",
-                    "stars": 598,
+                    "stars": 599,
                     "topics": [
                       "cran",
                       "fbref",
@@ -9595,7 +9595,7 @@
             "open_issues": 1,
             "owner": "JaseZiv",
             "repo": "worldfootballR",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "cran",
               "fbref",
@@ -9785,7 +9785,7 @@
             "open_issues": 2,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21540,
+            "stars": 21548,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:07:13.320Z",
+    "last_updated": "2026-10-08T06:13:01.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9889,7 +9889,7 @@
       "open_issues": 8,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2802,
+      "stars": 2804,
       "topics": [
         "analytics",
         "awesome",
