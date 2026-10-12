@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2107,
+            "stars": 2108,
             "topics": [
               "elo-rating",
               "espn",
@@ -97,10 +97,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-10T11:29:56Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "PySport",
             "repo": "kloppy",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -204,7 +204,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-04T16:10:27Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "floodlight-sports",
             "repo": "floodlight",
             "stars": 133,
@@ -678,7 +678,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3692,
+            "stars": 3693,
             "topics": [
               "football",
               "football-data",
@@ -706,7 +706,7 @@
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2107,
+            "stars": 2108,
             "topics": [
               "elo-rating",
               "espn",
@@ -803,7 +803,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -891,7 +891,7 @@
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2107,
+            "stars": 2108,
             "topics": [
               "elo-rating",
               "espn",
@@ -967,7 +967,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 784,
+            "stars": 785,
             "topics": [
               "data-science",
               "data-visualization",
@@ -1030,7 +1030,7 @@
             "open_issues": 12,
             "owner": "martj42",
             "repo": "international_results",
-            "stars": 522,
+            "stars": 523,
             "topics": [
               "football",
               "football-data",
@@ -1077,7 +1077,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3692,
+            "stars": 3693,
             "topics": [
               "football",
               "football-data",
@@ -1430,7 +1430,7 @@
                 "open_issues": 4,
                 "owner": "Friends-of-Tracking-Data-FoTD",
                 "repo": "LaurieOnTracking",
-                "stars": 359,
+                "stars": 360,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1516,7 +1516,7 @@
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2107,
+            "stars": 2108,
             "topics": [
               "elo-rating",
               "espn",
@@ -1594,10 +1594,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-10T11:29:56Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "PySport",
             "repo": "kloppy",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1794,7 +1794,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-04T16:10:27Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "floodlight-sports",
             "repo": "floodlight",
             "stars": 133,
@@ -2208,7 +2208,7 @@
             "open_issues": 22,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17461,
+            "stars": 17462,
             "topics": [
               "data"
             ]
@@ -2323,7 +2323,7 @@
             "open_issues": 0,
             "owner": "openfootball",
             "repo": "football.json",
-            "stars": 1036,
+            "stars": 1037,
             "topics": [
               "bundesliga",
               "football",
@@ -2548,7 +2548,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2586,7 +2586,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-10T09:23:46Z",
+            "last_commit": "2026-10-11T09:24:05Z",
             "open_issues": 83,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -2775,7 +2775,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 232,
+            "stars": 234,
             "topics": [
               "betting",
               "betting-models",
@@ -2817,7 +2817,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 232,
+            "stars": 234,
             "topics": [
               "betting",
               "betting-models",
@@ -2859,7 +2859,7 @@
             "open_issues": 7,
             "owner": "AndrewCarterUK",
             "repo": "football-predictor",
-            "stars": 229,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -3288,11 +3288,11 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T03:30:08Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-12T05:57:17Z",
+            "open_issues": 12,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "cfb-data",
               "college-basketball",
@@ -4156,7 +4156,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-09T02:16:37Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "sportsdataverse",
             "repo": "sportypy",
             "stars": 52,
@@ -5692,7 +5692,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 784,
+            "stars": 785,
             "topics": [
               "data-science",
               "data-visualization",
@@ -6658,7 +6658,7 @@
             "open_issues": 6,
             "owner": "whyjay17",
             "repo": "football_manager_api",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "api",
               "chrome-extension"
@@ -6818,7 +6818,7 @@
             "open_issues": 12,
             "owner": "martj42",
             "repo": "international_results",
-            "stars": 522,
+            "stars": 523,
             "topics": [
               "football",
               "football-data",
@@ -7209,7 +7209,7 @@
             "language": null,
             "license": null,
             "last_commit": "2021-04-06T17:59:06Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "meysubb",
             "repo": "Sports_Data_Reference",
             "stars": 107,
@@ -8278,7 +8278,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9132,7 +9132,7 @@
             "open_issues": 4,
             "owner": "Friends-of-Tracking-Data-FoTD",
             "repo": "LaurieOnTracking",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9392,7 +9392,7 @@
                 "open_issues": 22,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17461,
+                "stars": 17462,
                 "topics": [
                   "data"
                 ]
@@ -9785,7 +9785,7 @@
             "open_issues": 2,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21553,
+            "stars": 21560,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T05:54:59.394Z",
+    "last_updated": "2026-10-12T06:05:59.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
