@@ -15,7 +15,7 @@
             "id": 455210981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T04:46:59Z",
+            "last_commit": "2026-10-14T19:46:22Z",
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
@@ -415,7 +415,7 @@
             "open_issues": 1,
             "owner": "devinpleuler",
             "repo": "analytics-handbook",
-            "stars": 1714,
+            "stars": 1713,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -569,7 +569,7 @@
                 "open_issues": 1,
                 "owner": "devinpleuler",
                 "repo": "analytics-handbook",
-                "stars": 1714,
+                "stars": 1713,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:29:26.378Z"
@@ -678,7 +678,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3698,
+            "stars": 3701,
             "topics": [
               "football",
               "football-data",
@@ -702,7 +702,7 @@
             "id": 455210981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T04:46:59Z",
+            "last_commit": "2026-10-14T19:46:22Z",
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
@@ -887,7 +887,7 @@
             "id": 455210981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T04:46:59Z",
+            "last_commit": "2026-10-14T19:46:22Z",
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
@@ -1208,7 +1208,7 @@
             "open_issues": 63,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3698,
+            "stars": 3701,
             "topics": [
               "football",
               "football-data",
@@ -1282,7 +1282,7 @@
             "open_issues": 1,
             "owner": "devinpleuler",
             "repo": "analytics-handbook",
-            "stars": 1714,
+            "stars": 1713,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1512,7 +1512,7 @@
             "id": 455210981,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T04:46:59Z",
+            "last_commit": "2026-10-14T19:46:22Z",
             "open_issues": 41,
             "owner": "probberechts",
             "repo": "soccerdata",
@@ -2208,7 +2208,7 @@
             "open_issues": 22,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17464,
+            "stars": 17465,
             "topics": [
               "data"
             ]
@@ -2255,7 +2255,7 @@
             "open_issues": 37,
             "owner": "vaastav",
             "repo": "Fantasy-Premier-League",
-            "stars": 1811,
+            "stars": 1813,
             "topics": [
               "fantasy-premier-league",
               "fpl",
@@ -2281,7 +2281,7 @@
             "open_issues": 1,
             "owner": "devinpleuler",
             "repo": "analytics-handbook",
-            "stars": 1714,
+            "stars": 1713,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2302,7 +2302,7 @@
             "open_issues": 1,
             "owner": "devinpleuler",
             "repo": "analytics-handbook",
-            "stars": 1714,
+            "stars": 1713,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2320,10 +2320,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-22T09:33:50Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "openfootball",
             "repo": "football.json",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "bundesliga",
               "football",
@@ -2586,11 +2586,11 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-13T09:30:12Z",
+            "last_commit": "2026-10-14T09:25:04Z",
             "open_issues": 83,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "hacktoberfest",
               "hut23",
@@ -2701,7 +2701,7 @@
             "open_issues": 3,
             "owner": "mhaythornthwaite",
             "repo": "Football_Prediction_Project",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "data-science",
               "data-visualization",
@@ -2775,7 +2775,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "betting",
               "betting-models",
@@ -2817,7 +2817,7 @@
             "open_issues": 1,
             "owner": "martineastwood",
             "repo": "penaltyblog",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "betting",
               "betting-models",
@@ -2859,7 +2859,7 @@
             "open_issues": 7,
             "owner": "AndrewCarterUK",
             "repo": "football-predictor",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2901,7 +2901,7 @@
             "open_issues": 2,
             "owner": "solioanalytics",
             "repo": "open-fpl-solver",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -2955,7 +2955,7 @@
             "open_issues": 10,
             "owner": "dcaribou",
             "repo": "transfermarkt-scraper",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -6087,11 +6087,11 @@
           "repo_info": {
             "archived": false,
             "description": "An R package for many football models",
-            "homepage": null,
+            "homepage": "https://leoegidi.github.io/footBayes",
             "id": 219478427,
             "language": "R",
             "license": null,
-            "last_commit": "2026-10-08T11:29:24Z",
+            "last_commit": "2026-10-14T15:53:29Z",
             "open_issues": 4,
             "owner": "LeoEgidi",
             "repo": "footBayes",
@@ -6277,7 +6277,7 @@
             "open_issues": 0,
             "owner": "tara-nguyen",
             "repo": "english-premier-league-datasets-for-10-seasons",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "data-munging",
               "data-science",
@@ -6865,7 +6865,7 @@
             "open_issues": 3,
             "owner": "openfootball",
             "repo": "worldcup.json",
-            "stars": 485,
+            "stars": 484,
             "topics": [
               "api",
               "clubworldcup",
@@ -7398,6 +7398,31 @@
         },
         {
           "node_type": "item",
+          "title": "open-fpl",
+          "description": "by Narudom Techaval - ppen-source Fantasy Premier League tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source Fantasy Premier League tools",
+            "homepage": "https://openfpl.com",
+            "id": 365764709,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2022-03-02T16:26:15Z",
+            "open_issues": 12,
+            "owner": "bapairaew",
+            "repo": "open-fpl",
+            "stars": 29,
+            "topics": [
+              "fantasy-football",
+              "fantasy-premier-league",
+              "fpl"
+            ]
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
           "title": "players",
           "description": "by football.db (Gerald Bauer) - free open public domain football data (football.db) for players (goalkeepers, defenders, midfielders, forwards)",
           "children": [],
@@ -7417,31 +7442,6 @@
               "football",
               "opendata",
               "players"
-            ]
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
-          "title": "open-fpl",
-          "description": "by Narudom Techaval - ppen-source Fantasy Premier League tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open-source Fantasy Premier League tools",
-            "homepage": "https://openfpl.com",
-            "id": 365764709,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2022-03-02T16:26:15Z",
-            "open_issues": 12,
-            "owner": "bapairaew",
-            "repo": "open-fpl",
-            "stars": 28,
-            "topics": [
-              "fantasy-football",
-              "fantasy-premier-league",
-              "fpl"
             ]
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9392,7 +9392,7 @@
                 "open_issues": 22,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17464,
+                "stars": 17465,
                 "topics": [
                   "data"
                 ]
@@ -9781,11 +9781,11 @@
             "id": 29456624,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-28T20:10:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-14T09:03:07Z",
+            "open_issues": 2,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21564,
+            "stars": 21568,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9811,7 +9811,7 @@
             "open_issues": 1,
             "owner": "devinpleuler",
             "repo": "analytics-handbook",
-            "stars": 1714,
+            "stars": 1713,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:59:44.013Z",
+    "last_updated": "2026-10-15T04:48:21.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9889,7 +9889,7 @@
       "open_issues": 8,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2809,
+      "stars": 2810,
       "topics": [
         "analytics",
         "awesome",
