@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2128,
+            "stars": 2130,
             "topics": [
               "elo-rating",
               "espn",
@@ -433,7 +433,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2020-11-17T15:36:48Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "matiasmascioto",
             "repo": "awesome-soccer-analytics",
             "stars": 634,
@@ -482,10 +482,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-03-30T18:13:51Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "diegopastor",
             "repo": "awesome-football-analytics",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "football",
               "football-analytics",
@@ -587,7 +587,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2020-11-17T15:36:48Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "matiasmascioto",
                 "repo": "awesome-soccer-analytics",
                 "stars": 634,
@@ -615,10 +615,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2022-03-30T18:13:51Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "diegopastor",
                 "repo": "awesome-football-analytics",
-                "stars": 221,
+                "stars": 220,
                 "topics": [
                   "football",
                   "football-analytics",
@@ -678,7 +678,7 @@
             "open_issues": 65,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3760,
+            "stars": 3762,
             "topics": [
               "football",
               "football-data",
@@ -706,7 +706,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2128,
+            "stars": 2130,
             "topics": [
               "elo-rating",
               "espn",
@@ -891,7 +891,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2128,
+            "stars": 2130,
             "topics": [
               "elo-rating",
               "espn",
@@ -1208,7 +1208,7 @@
             "open_issues": 65,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3760,
+            "stars": 3762,
             "topics": [
               "football",
               "football-data",
@@ -1516,7 +1516,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2128,
+            "stars": 2130,
             "topics": [
               "elo-rating",
               "espn",
@@ -1683,7 +1683,7 @@
             "open_issues": 6,
             "owner": "amosbastian",
             "repo": "understat",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "expected-value",
               "football",
@@ -2208,7 +2208,7 @@
             "open_issues": 23,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17489,
+            "stars": 17492,
             "topics": [
               "data"
             ]
@@ -2255,7 +2255,7 @@
             "open_issues": 37,
             "owner": "vaastav",
             "repo": "Fantasy-Premier-League",
-            "stars": 1816,
+            "stars": 1817,
             "topics": [
               "fantasy-premier-league",
               "fpl",
@@ -2323,7 +2323,7 @@
             "open_issues": 2,
             "owner": "openfootball",
             "repo": "football.json",
-            "stars": 1052,
+            "stars": 1054,
             "topics": [
               "bundesliga",
               "football",
@@ -2426,7 +2426,7 @@
             "open_issues": 131,
             "owner": "roclark",
             "repo": "sportsipy",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "api",
               "artificial-intelligence",
@@ -2499,7 +2499,7 @@
             "open_issues": 50,
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
-            "stars": 526,
+            "stars": 527,
             "topics": [
               "analytics",
               "dataset",
@@ -2586,7 +2586,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-31T09:13:31Z",
+            "last_commit": "2026-11-01T09:14:24Z",
             "open_issues": 85,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -3288,7 +3288,7 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T03:44:49Z",
+            "last_commit": "2026-11-02T05:47:23Z",
             "open_issues": 7,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
@@ -3989,12 +3989,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Python package that wraps the American Soccer Analysis API ⚽🦅",
+            "description": "Python package for the American Soccer Analysis API ⚽🦅",
             "homepage": "https://american-soccer-analysis.github.io/itscalledsoccer/",
             "id": 375524987,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T12:52:30Z",
+            "last_commit": "2026-11-01T18:57:09Z",
             "open_issues": 1,
             "owner": "American-Soccer-Analysis",
             "repo": "itscalledsoccer",
@@ -4155,8 +4155,8 @@
             "id": 419544316,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T12:37:50Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-01T13:29:44Z",
+            "open_issues": 5,
             "owner": "sportsdataverse",
             "repo": "sportypy",
             "stars": 52,
@@ -5816,7 +5816,7 @@
             "id": 350140643,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T12:34:21Z",
+            "last_commit": "2026-11-01T13:27:26Z",
             "open_issues": 6,
             "owner": "sportsdataverse",
             "repo": "sportyR",
@@ -6787,7 +6787,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2020-11-17T15:36:48Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "matiasmascioto",
             "repo": "awesome-soccer-analytics",
             "stars": 634,
@@ -6975,10 +6975,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-03-30T18:13:51Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "diegopastor",
             "repo": "awesome-football-analytics",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "football",
               "football-analytics",
@@ -7079,7 +7079,7 @@
             "open_issues": 3,
             "owner": "pinnacleapi",
             "repo": "pinnacleapi-documentation",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -9011,7 +9011,7 @@
             "open_issues": 6,
             "owner": "amosbastian",
             "repo": "understat",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "expected-value",
               "football",
@@ -9392,7 +9392,7 @@
                 "open_issues": 23,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17489,
+                "stars": 17492,
                 "topics": [
                   "data"
                 ]
@@ -9785,7 +9785,7 @@
             "open_issues": 3,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21647,
+            "stars": 21659,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9829,7 +9829,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2020-11-17T15:36:48Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "matiasmascioto",
             "repo": "awesome-soccer-analytics",
             "stars": 634,
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:16:36.770Z",
+    "last_updated": "2026-11-02T06:17:48.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9886,7 +9886,7 @@
       "language": "Jupyter Notebook",
       "license": null,
       "last_commit": "2025-10-09T10:51:47Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "eddwebster",
       "repo": "football_analytics",
       "stars": 2829,
