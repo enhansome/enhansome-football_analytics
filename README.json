@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2130,
+            "stars": 2132,
             "topics": [
               "elo-rating",
               "espn",
@@ -464,7 +464,7 @@
             "open_issues": 115,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -678,7 +678,7 @@
             "open_issues": 65,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3762,
+            "stars": 3766,
             "topics": [
               "football",
               "football-data",
@@ -706,7 +706,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2130,
+            "stars": 2132,
             "topics": [
               "elo-rating",
               "espn",
@@ -782,7 +782,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -891,7 +891,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2130,
+            "stars": 2132,
             "topics": [
               "elo-rating",
               "espn",
@@ -1030,7 +1030,7 @@
             "open_issues": 14,
             "owner": "martj42",
             "repo": "international_results",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "football",
               "football-data",
@@ -1098,7 +1098,7 @@
             "open_issues": 115,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 115,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 65,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3762,
+            "stars": 3766,
             "topics": [
               "football",
               "football-data",
@@ -1236,7 +1236,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1516,7 +1516,7 @@
             "open_issues": 37,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2130,
+            "stars": 2132,
             "topics": [
               "elo-rating",
               "espn",
@@ -2208,7 +2208,7 @@
             "open_issues": 23,
             "owner": "fivethirtyeight",
             "repo": "data",
-            "stars": 17492,
+            "stars": 17493,
             "topics": [
               "data"
             ]
@@ -2231,7 +2231,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3672,
+            "stars": 3671,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -2496,7 +2496,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-09-05T09:07:49Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "dcaribou",
             "repo": "transfermarkt-datasets",
             "stars": 527,
@@ -2586,7 +2586,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-01T09:14:24Z",
+            "last_commit": "2026-11-02T09:19:24Z",
             "open_issues": 85,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -2754,7 +2754,7 @@
             "open_issues": 115,
             "owner": "openfootball",
             "repo": "awesome-football",
-            "stars": 255,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -3288,11 +3288,11 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T05:47:23Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-03T01:19:29Z",
+            "open_issues": 8,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
-            "stars": 125,
+            "stars": 127,
             "topics": [
               "college-basketball",
               "college-football",
@@ -4155,7 +4155,7 @@
             "id": 419544316,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T13:29:44Z",
+            "last_commit": "2026-11-02T16:02:05Z",
             "open_issues": 5,
             "owner": "sportsdataverse",
             "repo": "sportypy",
@@ -5816,7 +5816,7 @@
             "id": 350140643,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T13:27:26Z",
+            "last_commit": "2026-11-02T15:57:47Z",
             "open_issues": 6,
             "owner": "sportsdataverse",
             "repo": "sportyR",
@@ -6818,7 +6818,7 @@
             "open_issues": 14,
             "owner": "martj42",
             "repo": "international_results",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "football",
               "football-data",
@@ -6844,7 +6844,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -8191,7 +8191,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3672,
+            "stars": 3671,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -9237,7 +9237,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3672,
+            "stars": 3671,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -9392,7 +9392,7 @@
                 "open_issues": 23,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17492,
+                "stars": 17493,
                 "topics": [
                   "data"
                 ]
@@ -9785,7 +9785,7 @@
             "open_issues": 3,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21659,
+            "stars": 21663,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9877,7 +9877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T06:17:48.906Z",
+    "last_updated": "2026-11-03T06:55:05.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9889,7 +9889,7 @@
       "open_issues": 11,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2829,
+      "stars": 2832,
       "topics": [
         "analytics",
         "awesome",
