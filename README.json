@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2146,
+            "stars": 2149,
             "topics": [
               "elo-rating",
               "espn",
@@ -53,7 +53,7 @@
             "open_issues": 40,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -678,7 +678,7 @@
             "open_issues": 65,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3833,
+            "stars": 3837,
             "topics": [
               "football",
               "football-data",
@@ -706,7 +706,7 @@
             "open_issues": 40,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2146,
+            "stars": 2149,
             "topics": [
               "elo-rating",
               "espn",
@@ -782,7 +782,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -891,7 +891,7 @@
             "open_issues": 40,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2146,
+            "stars": 2149,
             "topics": [
               "elo-rating",
               "espn",
@@ -967,7 +967,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "data-science",
               "data-visualization",
@@ -1026,7 +1026,7 @@
             "id": 138686232,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-19T20:14:44Z",
+            "last_commit": "2026-11-23T00:27:35Z",
             "open_issues": 14,
             "owner": "martj42",
             "repo": "international_results",
@@ -1208,7 +1208,7 @@
             "open_issues": 65,
             "owner": "hudl",
             "repo": "open-data",
-            "stars": 3833,
+            "stars": 3837,
             "topics": [
               "football",
               "football-data",
@@ -1236,7 +1236,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -1516,7 +1516,7 @@
             "open_issues": 40,
             "owner": "probberechts",
             "repo": "soccerdata",
-            "stars": 2146,
+            "stars": 2149,
             "topics": [
               "elo-rating",
               "espn",
@@ -1550,7 +1550,7 @@
             "open_issues": 40,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -2255,7 +2255,7 @@
             "open_issues": 39,
             "owner": "vaastav",
             "repo": "Fantasy-Premier-League",
-            "stars": 1825,
+            "stars": 1827,
             "topics": [
               "fantasy-premier-league",
               "fpl",
@@ -2323,7 +2323,7 @@
             "open_issues": 2,
             "owner": "openfootball",
             "repo": "football.json",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "bundesliga",
               "football",
@@ -2353,7 +2353,7 @@
             "open_issues": 40,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -2565,7 +2565,7 @@
             "id": 142275122,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-11-21T09:13:48Z",
+            "last_commit": "2026-11-22T09:14:40Z",
             "open_issues": 83,
             "owner": "alan-turing-institute",
             "repo": "AIrsenal",
@@ -2701,7 +2701,7 @@
             "open_issues": 2,
             "owner": "mhaythornthwaite",
             "repo": "Football_Prediction_Project",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "data-science",
               "data-visualization",
@@ -2901,7 +2901,7 @@
             "open_issues": 3,
             "owner": "solioanalytics",
             "repo": "open-fpl-solver",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -3098,6 +3098,27 @@
         },
         {
           "node_type": "item",
+          "title": "mapping-match-events-in-Python",
+          "description": "⭐ by Luca Pappalardo, Alessio Rossi, and Paolo Cintia - code for working with and plotting Wyscout data as featured on Friends of Tracking. See the paper: A public data set of spatio-temporal match events in soccer competitions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Luca Pappalardos code for working with and plotting Wyscout data",
+            "homepage": null,
+            "id": 261097429,
+            "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
+            "last_commit": "2023-07-06T21:58:31Z",
+            "open_issues": 3,
+            "owner": "Friends-of-Tracking-Data-FoTD",
+            "repo": "mapping-match-events-in-Python",
+            "stars": 141,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:29:26.378Z"
+        },
+        {
+          "node_type": "item",
           "title": "soc-viz-of-the-week",
           "description": "⭐ by Son of a Corner - viz of the week",
           "children": [],
@@ -3113,27 +3134,6 @@
             "owner": "sonofacorner",
             "repo": "soc-viz-of-the-week",
             "stars": 141,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:29:26.378Z"
-        },
-        {
-          "node_type": "item",
-          "title": "mapping-match-events-in-Python",
-          "description": "⭐ by Luca Pappalardo, Alessio Rossi, and Paolo Cintia - code for working with and plotting Wyscout data as featured on Friends of Tracking. See the paper: A public data set of spatio-temporal match events in soccer competitions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Luca Pappalardos code for working with and plotting Wyscout data",
-            "homepage": null,
-            "id": 261097429,
-            "language": "Jupyter Notebook",
-            "license": "GPL-3.0",
-            "last_commit": "2023-07-06T21:58:31Z",
-            "open_issues": 3,
-            "owner": "Friends-of-Tracking-Data-FoTD",
-            "repo": "mapping-match-events-in-Python",
-            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -3288,7 +3288,7 @@
             "id": 416449053,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T18:37:41Z",
+            "last_commit": "2026-11-22T19:19:18Z",
             "open_issues": 10,
             "owner": "sportsdataverse",
             "repo": "sportsdataverse-py",
@@ -4155,8 +4155,8 @@
             "id": 419544316,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T14:42:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-22T14:38:17Z",
+            "open_issues": 4,
             "owner": "sportsdataverse",
             "repo": "sportypy",
             "stars": 52,
@@ -5692,7 +5692,7 @@
             "open_issues": 30,
             "owner": "jalapic",
             "repo": "engsoccerdata",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "data-science",
               "data-visualization",
@@ -5816,7 +5816,7 @@
             "id": 350140643,
             "language": "R",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T14:40:57Z",
+            "last_commit": "2026-11-22T14:37:08Z",
             "open_issues": 6,
             "owner": "sportsdataverse",
             "repo": "sportyR",
@@ -6815,7 +6815,7 @@
             "id": 138686232,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-19T20:14:44Z",
+            "last_commit": "2026-11-23T00:27:35Z",
             "open_issues": 14,
             "owner": "martj42",
             "repo": "international_results",
@@ -6845,7 +6845,7 @@
             "open_issues": 0,
             "owner": "metrica-sports",
             "repo": "sample-data",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T11:29:26.378Z"
@@ -6866,7 +6866,7 @@
             "open_issues": 3,
             "owner": "openfootball",
             "repo": "worldcup.json",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "api",
               "clubworldcup",
@@ -9341,7 +9341,7 @@
             "open_issues": 40,
             "owner": "ML-KULeuven",
             "repo": "socceraction",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "soccer",
               "soccer-analytics",
@@ -9786,7 +9786,7 @@
             "open_issues": 1,
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21758,
+            "stars": 21760,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9878,7 +9878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T06:59:14.155Z",
+    "last_updated": "2026-11-23T07:48:36.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.",
@@ -9890,7 +9890,7 @@
       "open_issues": 4,
       "owner": "eddwebster",
       "repo": "football_analytics",
-      "stars": 2864,
+      "stars": 2866,
       "topics": [
         "analytics",
         "awesome",
